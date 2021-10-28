@@ -1,5 +1,5 @@
 
-# Story Books
+# Stories
 Story books is platform for users to share their life stories with others. It has public stories as well as private stories section where users can save their memories.
 
 
