@@ -4,7 +4,7 @@
   "description": "App to create stories",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon",
+    "start": "nodemon app.js",
     "dev": "cross-env NODE_ENV=development nodemon app"
   },
   "author": "Himanshu Chavan",
