@@ -96,6 +96,6 @@ app.use('/stories', require('./routes/stories'))
 //     PORT,
 //     console.log(`Server is running in ${process.env.NODE_ENV} mode on port ${PORT}`)
 // )
-app.listen(process.env.PORT || 3000, function(){
+app.listen(process.env.PORT || 7000, function(){
     console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
   });
